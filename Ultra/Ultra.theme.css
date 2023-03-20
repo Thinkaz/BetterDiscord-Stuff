@@ -20,7 +20,7 @@
 
 /* Source */
 @import url("https://raw.githubusercontent.com/Thinkaz/BetterDiscord-Stuff/main/Ultra/Ultra.css");
-@import url("https://raw.githubusercontent.com/Thinkaz/BetterDiscord-Stuff/main/Ultra/fonts.css");
+@import url(https://cdn.jsdelivr.net/gh/Overimagine1/old-discord-font/source.min.css);
 @import url("https://thecommieaxolotl.github.io/BetterDiscord-Stuff/Ultra/Modules/Clients/BetterDiscord.css");
 
 :root,
@@ -60,9 +60,6 @@
     --channels-default: #4a4a52;
     --selected-indicator: #97ffa5;
     --hover-indicator: #ffffff;
-    --font-primary: Whitney, "Helvetica Neue", Helvetica, Arial, sans-serif;
-    --font-display: Whitney, "ABC Ginto Normal", "Helvetica Neue", Helvetica, Arial, sans-serif;
-    --font-headline: Whitney, "ABC Ginto Nord", "Helvetica Neue", Helvetica, Arial, sans-serif;
     --boost-bar: none;
 }
 
